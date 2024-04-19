@@ -17,10 +17,10 @@ app = FastAPI()
 templates = Jinja2Templates(directory="templates")
 
 context = \
-    [{"name": "Abdulmajid", "direction": "Front-end && Back-end"}, {"name": "Diyorbek", "direction": "Back-end Python"}]
+    [{"name": "Ahmadojon", "direction": "Front-end && Back-end"}, {"name": "Diyorbek", "direction": "Back-end Python"}]
 
 data = {
-    "name": "Abdulmajid",
+    "name": "Ahmadjon",
     "direction": "Front-end && Back-end"
 }
 
